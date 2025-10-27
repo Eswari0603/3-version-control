@@ -10,5 +10,7 @@
 ## Task 3: Pull Requests
 - Merged feature branches → dev → main
 
+##.gitignore - It ignore the log ,temp file . git didnot track these files
+
 ## Task 4: Tagging
 - Added tag `v1.0` for stable release
