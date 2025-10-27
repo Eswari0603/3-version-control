@@ -1,0 +1,14 @@
+# Task Documentation
+
+## Task 1: Repo Setup
+- Initialized local Git repo
+- Created remote repo on GitHub
+
+## Task 2: Branching
+- Created `main`, `dev`, and `feature` branches
+
+## Task 3: Pull Requests
+- Merged feature branches → dev → main
+
+## Task 4: Tagging
+- Added tag `v1.0` for stable release
